@@ -74,6 +74,26 @@ IMC = peso / (altura * altura);
 - Controle de versão com Git
 - Deploy
 
+---
+
+## 💻 Como Executar Localmente
+
+```bash
+# 1. Abra o terminal (CMD, Powershell ou git)!
+
+# 2. Navega até uma pasta do seu computador onde o repositório vai ficar após a clonagem!
+cd nome_da_pasta
+
+# 2. Clone o repositório
+git clone https://github.com/gabriel-corto/body-js.git
+
+# 3. Verifique se a pasta criou
+ls (isso vai listar todas as pastas)
+
+# 4. Navega até a pasta criada após a clonagem
+cd pasta_criada_apos_clonagem
+```
+
 ## Layout
 
 <img src="./assets/ui.png" />
